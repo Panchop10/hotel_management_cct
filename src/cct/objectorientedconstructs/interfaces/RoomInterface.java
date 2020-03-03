@@ -6,7 +6,7 @@ import java.util.Map;
  *
  * This is one of the interfaces you need to implement
  *
- * @author ONE of you needs to take responsibility for this, whoever it is, put your student number here
+ * @author ONE of you needs to take responsibility for this, whoever it is, put your student number here 2018260
  */
 public interface RoomInterface {
 	/**
