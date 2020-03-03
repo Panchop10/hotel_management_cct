@@ -1,0 +1,4 @@
+Mespil
+Single:60:3
+Double:80:5
+Penthouse:100:1
